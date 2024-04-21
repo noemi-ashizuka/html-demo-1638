@@ -1,0 +1,45 @@
+<h1>Hawkins adventures with Dustin & Steve</h1>
+
+<p>Hey, it's the dynamic duo – Dustin and Steve – reporting for duty! Whether we're battling Demogorgons or babysitting kids, you know we're always up for an adventure. We've faced more than our fair share of supernatural threats, but with each challenge, our friendship grows stronger.
+</p>
+
+Join the Scoops Troop
+
+<h2>"Friends don't lie"</h2>
+
+<p>That's right, folks! When you're with Dustin and Steve, you can always count on us to have your back – no lies, no secrets, just pure friendship. We've been through thick and thin together, and our bond is unbreakable.
+</p>
+
+<h2>"How Many Times Do I Have To Be Right On The Money Before You Trust Me?"</h2>
+
+<p>When it comes to solving mysteries and saving the day, Dustin's intuition is always spot-on. His knowledge of Dungeons & Dragons and knack for decoding secret messages have saved our skins more times than we can count. It's about time we start trusting his instincts!
+</p>
+
+ <h2>"Turns out I'm a pretty damn good babysitter."</h2> 
+
+<p>As for Steve, he's not just a babysitter – he's a hero in disguise. With a mean swing of that nail-studded bat, he's the ultimate protector of Hawkins. Whether he's facing down Demogorgons or comforting frightened kids, Steve's got nerves of steel and a heart of gold.
+</p>
+
+<h2>"She's our friend and she's crazy!"</h2>
+
+<p>Life's never boring when you're hanging with us. From battling Mind Flayers to breaking into Russian bases, there's never a dull moment with the Scoops Troop around! And let's not forget about Eleven – our telekinetic, Eggo-loving friend who adds a whole new level of crazy to our adventures! Her powers may be out of this world, but she's as much a part of the team as any of us.
+</p>
+
+<h2>Interests:</h2>
+
+<p>When we're not busy saving Hawkins from supernatural threats, you can usually find us cruising around in Steve's car, playing Dungeons & Dragons, or brainstorming new ice cream flavors at Scoops Ahoy. We're all about good times, great friends, and epic adventures!
+</p>
+
+Fontawesome icons
+
+<li><i class="fa-brands fa-instagram"></i></li>
+<li><i class="fa-brands fa-square-facebook"></i></li>
+<li><i class="fas fa-ice-cream"></i></li>
+
+Colors: 
+orange #E27825
+dark orange #d66209
+text #333333
+
+Fonts:
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto&display=swap')
