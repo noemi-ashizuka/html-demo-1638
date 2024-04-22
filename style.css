@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto&display=swap');
+
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #333333;
+  font-size: 24px;
+  /* background-image: url(images/cool-background.png); */
+  background-color: #eeecec;
+}
+
+h1, h2, h3 {
+  font-family: "Anton", sans-serif;
+  font-size: 32px;
+}
+
+a {
+  text-decoration: none;
+  color: #333333;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.container {
+max-width: 800px;
+margin: 0 auto;  
+}
+
+.card-white {
+  background-color: white;
+  padding: 40px;
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 20px 0;
+}
+
+.img-circle {
+  width: 300px;
+  border-radius: 50%
+}
+
+.btn-orange {
+  background-color: #DE6B20;
+  border-radius: 4px;
+  padding: 16px;
+  color: white;
+}
+
+.btn-orange:hover {
+  background-color: #ae4d0d;
+  transition: background-color 0.5s;
+}
+
+.list-inline {
+  list-style: none;
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+  font-size: 40px;
+  margin: 16px;
+}
+
+.list-inline i:hover {
+  color: #DE6B20;
+  transition: 0.5s;
+}
